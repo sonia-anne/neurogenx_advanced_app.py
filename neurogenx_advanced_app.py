@@ -66,7 +66,7 @@ st.dataframe(df.style.format({"efficacy": "{:.1f}%", "cost": "${:,.0f}"}))
 st.markdown("""
 ### ✅ Why NEUROGEN-X is the Future
 
-• Uses CRISPR-Cas13d for targeted prion degradation (>94% efficacy)  
+• Uses CRISPR-Cas13d for targeted prion degradation (94% efficacy)  
 • Nanofiber scaffolds with BDNF/NGF enable real neural regeneration  
 • AI-guided molecular GPS ensures unmatched targeting precision  
 • Fully biodegradable, non-toxic, and self-destructs in 72h post-mission  

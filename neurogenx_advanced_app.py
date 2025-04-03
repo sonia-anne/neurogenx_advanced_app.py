@@ -70,7 +70,7 @@ st.markdown("""
 • Nanofiber scaffolds with BDNF/NGF enable real neural regeneration  
 • AI-guided molecular GPS ensures unmatched targeting precision  
 • Fully biodegradable, non-toxic, and self-destructs in 72h post-mission  
-• Priced at only $8,000 — that's 150× more affordable than gene therapies ($1.2M)  
+• Priced at only $8,000 that's 150× more affordable than gene therapies ($1.2M)  
 • Scalable production using microfluidics and DNA origami planned for 2027  
 
 🧪 Data sources:  

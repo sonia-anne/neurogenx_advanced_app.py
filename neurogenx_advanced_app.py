@@ -64,17 +64,19 @@ st.dataframe(df.style.format({"efficacy": "{:.1f}%", "cost": "${:,.0f}"}))
 
 # Info Summary
 st.markdown("""
-### ✅ Why NEUROGEN-X is the Future
-- Uses **CRISPR-Cas13d** for targeted prion degradation (**>94% efficacy**).
-- **Nanofiber scaffolds** with **BDNF/NGF** promote real neural regeneration.
-- AI-guided **molecular GPS** ensures unmatched targeting precision.
-- Fully biodegradable, non-toxic, and **self-destructs in 72h** post-mission.
-- Priced at only **$8,000**, it's **150× more affordable** than gene therapies (**$1.2M**).
-- Built for scalability using **microfluidics and DNA origami** by 2027.
-
-🧪 Based on data from:
-- WHO Prion Disease Reports (2023)
-- MIT Nanotech Lab (2024)
-- NIH ASO Clinical Trials (2023)
-""")
-
+<div style="font-size: 16px; line-height: 1.6">
+  <h3>✅ Why <strong>NEUROGEN-X</strong> is the Future</h3>
+  <ul>
+    <li>Uses <strong>CRISPR-Cas13d</strong> for targeted prion degradation (<strong>>94% efficacy</strong>).</li>
+    <li><strong>Nanofiber scaffolds</strong> with <strong>BDNF/NGF</strong> promote real neural regeneration.</li>
+    <li>AI-guided <strong>molecular GPS</strong> ensures unmatched targeting precision.</li>
+    <li>Fully biodegradable, non-toxic, and <strong>self-destructs in 72h</strong> post-mission.</li>
+    <li>Priced at only <strong>$8,000</strong>, it's <strong>150× more affordable</strong> than gene therapies (<strong>$1.2M</strong>).</li>
+    <li>Built for scalability using <strong>microfluidics and DNA origami</strong> by 2027.</li>
+  </ul>
+  <p>🧪 <em>Based on data from:</em><br>
+  - WHO Prion Disease Reports (2023)<br>
+  - MIT Nanotech Lab (2024)<br>
+  - NIH ASO Clinical Trials (2023)</p>
+</div>
+""", unsafe_allow_html=True)
